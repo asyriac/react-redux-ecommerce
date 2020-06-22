@@ -1,0 +1,36 @@
+.optional {
+  display: none;
+}
+
+.item-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  margin-top: 0.5rem;
+  margin-left: 8rem;
+  margin-bottom: 2rem;
+  border: 1px solid black;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-box {
+  padding: 1rem;
+  margin: 0.5rem;
+}
+
+.form_input {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  padding: 1rem;
+  margin: 1rem;
+  font-size: 1.3rem;
+}

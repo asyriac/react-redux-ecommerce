@@ -1,0 +1,9 @@
+.btn {
+  margin-top: 0.5rem;
+  padding: 0.7rem;
+  font-size: 1.5rem;
+}
+
+.qty {
+  display: inline;
+}

@@ -1,0 +1,19 @@
+.btn-add {
+  margin-top: 0.5rem;
+  padding: 0.7rem;
+  font-size: 1.5rem;
+}
+
+.input-box {
+  padding: 1rem;
+  margin: 0.5rem;
+}
+
+.form_input {
+  display: flex;
+  flex-direction: column;
+}
+
+.addProduct-container {
+  width: 80%;
+}

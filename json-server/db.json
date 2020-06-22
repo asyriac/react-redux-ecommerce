@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "name": "Product 2",
+      "price": "5",
+      "rating": "3.2",
+      "id": 2
+    },
+    {
+      "name": "Product 3",
+      "price": "65",
+      "rating": "3.4",
+      "id": 3
+    },
+    {
+      "name": "Product 4",
+      "price": "65",
+      "rating": "4.3",
+      "id": 4
+    },
+    {
+      "name": "Product 5",
+      "price": "50",
+      "rating": "3.6",
+      "id": 5
+    },
+    {
+      "name": "Product 6",
+      "price": "40",
+      "rating": "4.2",
+      "id": 6
+    },
+    {
+      "name": "Product 7",
+      "price": "500",
+      "rating": "3.4",
+      "id": 7
+    },
+    {
+      "name": "Product 8",
+      "price": "400",
+      "rating": "4.1",
+      "id": 8
+    },
+    {
+      "name": "Product 9",
+      "price": "300",
+      "rating": "4.4",
+      "id": 9
+    }
+  ],
+  "cart": [
+    {
+      "qty": 5,
+      "id": 1,
+      "name": "Product 2",
+      "price": "5",
+      "rating": "3.2",
+      "productID": 2
+    },
+    {
+      "qty": 5,
+      "id": 2,
+      "name": "Product 3",
+      "price": "65",
+      "rating": "3.4",
+      "productID": 3
+    }
+  ]
+}
